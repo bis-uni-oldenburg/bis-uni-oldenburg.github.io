@@ -1,8 +1,9 @@
 # bis-uni-oldenburg.github.io
-
-BIS - Bibliotheks- und Informationssystem der Carl von Ossietzky Universität Oldenburg
-Digitale Bibliothek
-
-Kontakt:
-Lars Heuer
-lars.heuer@uni-oldenburg.de
+<br /><br />
+<strong>BIS - Bibliotheks- und Informationssystem der Carl von Ossietzky Universität Oldenburg</strong>
+<br />
+<strong>Digitale Bibliothek</strong>
+<br /><br />
+<strong>Kontakt:</strong>
+<br />Lars Heuer
+<br />lars.heuer@uni-oldenburg.de
